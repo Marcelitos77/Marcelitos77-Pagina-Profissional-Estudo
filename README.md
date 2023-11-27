@@ -1,6 +1,6 @@
 # Página Portifolio
 
-Este é uma landpage de estudo na foi desenvolvido em html e css.
+Este é uma landpage de estudo na foi desenvolvido em html, css e javascript.
 
 link: https://marcelitos77-pagina-profissional-estudo.vercel.app/
 
